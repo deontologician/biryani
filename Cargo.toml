@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 nix = "0.23.1"
 memfile = "0.2.1"
+elfio = "0.3.3"
